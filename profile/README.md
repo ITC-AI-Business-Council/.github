@@ -58,7 +58,7 @@ This repository lives in `.github/` at the org level so that:
          uses: ITC-AI-Business-Council/.github/.github/workflows/ci.yml@main
      ```
 3. **Follow the Guidelines**  
-   - Read our [Code of Conduct]([CODE_OF_CONDUCT.md](https://github.com/ITC-AI-Business-Council/.github/blob/main/CODE_OF_CONDUCT.MD) and [Contributing Guide](CONTRIBUTING.md) before opening issues or PRs.  
+   - Read our ([Code of Conduct](https://github.com/ITC-AI-Business-Council/.github/blob/main/CODE_OF_CONDUCT.MD) and [Contributing Guide](CONTRIBUTING.md) before opening issues or PRs.  
 4. **Security First**  
    - If you discover a vulnerability, see [SECURITY.md](SECURITY.md) for private disclosure instructions.  
 
