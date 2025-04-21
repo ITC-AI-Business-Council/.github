@@ -58,7 +58,7 @@ This repository lives in `.github/` at the org level so that:
          uses: ITC-AI-Business-Council/.github/.github/workflows/ci.yml@main
      ```
 3. **Follow the Guidelines**  
-   - Read our [Code of Conduct](https://github.com/ITC-AI-Business-Council/.github/blob/main/CODE_OF_CONDUCT.MD) and [Contributing Guide](CONTRIBUTING.md) before opening issues or PRs.  
+   - Read our [Code of Conduct](https://github.com/ITC-AI-Business-Council/.github/blob/main/CODE_OF_CONDUCT.MD) and [Contributing Guide](https://github.com/ITC-AI-Business-Council/.github/blob/main/profile/Contributing.md) before opening issues or PRs.  
 4. **Security First**  
    - If you discover a vulnerability, see [SECURITY.md](SECURITY.md) for private disclosure instructions.  
 
@@ -74,7 +74,7 @@ We welcome all members of the AI Business Council community to help improve thes
 4. Commit and push: `git commit -m "feat: add X template"`  
 5. Open a pull request against `main`.  
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
+See [CONTRIBUTING.md](https://github.com/ITC-AI-Business-Council/.github/blob/main/profile/Contributing.md) for full details.
 
 ---
 
