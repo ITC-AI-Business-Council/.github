@@ -45,7 +45,7 @@ GitHub organization discussions, meetings, and public events organized by the Co
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting any council maintainer:
 
-- **Email**: conduct@itc-aibc.org  
+- **Email**: businesscouncils@thetradecouncil.com  
 - **GitHub Issues**: Open an issue in [this repo](https://github.com/ITC-AI-Business-Council/.github) and add the label `code-of-conduct-violation`.
 
 All complaints will be reviewed and investigated promptly and fairly.  
