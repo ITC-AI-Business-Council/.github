@@ -1,4 +1,3 @@
-```markdown
 # Contributing to ITC AI Business Council Repositories
 
 Thank you for your interest in contributing! We value every bit of help—from typo fixes to new workflow templates. This guide will walk you through the process of opening issues, submitting pull requests, and helping us keep everything organized.
